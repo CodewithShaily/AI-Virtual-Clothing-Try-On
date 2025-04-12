@@ -13,21 +13,15 @@ Pose and Fit Estimation: Advanced AI models such as Pose Estimation (e.g., OpenP
 Realistic Rendering: Using GANs (Generative Adversarial Networks) like VITON, the system generates realistic try-on images with natural shadows, folds, and textures.
 
 Technologies Used:
-Python, PyTorch / TensorFlow
-
+Python, PyTorch 
 OpenCV for image processing
-
 VITON / CP-VTON architecture for virtual try-on
-
 Flask / Streamlit for the frontend interface
-
 Cloud storage (e.g., AWS S3) for image hosting
 
 Use Cases:
 E-commerce Platforms: Enhancing product visualization and personalization.
-
 Fashion Retailers: Providing virtual fitting rooms to attract tech-savvy customers.
-
 Mobile Apps: Offering an AR-based try-on experience through smartphone cameras.
 
 Impact:
